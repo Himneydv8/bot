@@ -48,7 +48,7 @@ def check(card, amount, link, price):
 					await bot.close()
 
 
-			bot.run('ODUwNjMzNjI3ODUwMzc1MjA5.GMO_Kr.fuEIersPvAgy8z7yBBOfmNByZtlDAYyGw4IyOA')
+			bot.run('ODUwNjMzNjI3ODUwMzc1MjA5.GMO_Kr.fuEIersPvAgy8z7yBBOfmNByZtlDAYyGw4Iy')
 			sent = True
 		if sent:
 			quit()
